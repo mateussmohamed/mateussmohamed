@@ -4,7 +4,7 @@ I'm Mateus, a brazilian software engineer living in Brazil! :brazil:
 
 - 🔥 I'm currently looking for work as Frontend Engineer
 
-### Last companies
+### Last Experiences
 - [Nyla](https://nyla.app)
 - [Stone.co](https://stone.com.br)
 - [Sallve](https://sallve.com.br)
