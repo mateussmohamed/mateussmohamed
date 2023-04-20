@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**mateussmohamed/mateussmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mateus, a brazilian software engineer living in Brazil! :brazil:
 
-Here are some ideas to get you started:
+- 🔥 I'm currently looking for work as Frontend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 TypeScript, JavaScript, NodeJS
+- ⚙️ React, React Native, Expo
+- 👁️ SASS, CSS, Stylus, Styled Components, Tailwind
+- 💽 SQL an NoSQL Databases
+
+## Contact
+
+[![Twitter: mateussmohamed](https://img.shields.io/twitter/follow/mateussmohamed?style=social)](https://twitter.com/mateussmohamed)
+[![Linkedin: mateussmohamed](https://img.shields.io/badge/-mateussmohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateussantana)](https://www.linkedin.com/in/mateussantana)
+[![GitHub mateussmohamed](https://img.shields.io/github/followers/mateussmohamed?label=follow&style=social)](https://github.com/mateussmohamed)
