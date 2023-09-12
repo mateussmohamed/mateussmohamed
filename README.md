@@ -1,8 +1,7 @@
 ## Hey there 👋
 
-I'm Mateus, a brazilian software engineer living in Brazil! :brazil:
+I'm Mateus, a brazilian software engineer living in Brazil! :brazil: Current working at [Paragon One](https://paragonone.com)
 
-- 🔥 I'm currently looking for work as Frontend Engineer
 
 ### Last Experiences
 - [Nyla](https://nyla.app)
