@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Mateus, a brazilian software engineer living in Brazil! :brazil: Current working at [Paragon One](https://paragonone.com)
+I'm Mateus, a brazilian software engineer living in Brazil! :brazil: Current working at [Extern](https://extern.com)
 
 
 ### Last Experiences
